@@ -54,6 +54,7 @@
 
 <br clear="both">
 
+
 ## 🚀 BlitzStack — A Modern React Starter Kit
 
 BlitzStack is a lightweight and flexible starter template designed to help developers spin up React projects fast.  
@@ -65,6 +66,31 @@ It comes pre-configured with a clean folder structure, reusable patterns, and es
 🔹 Live demo: https://blitzstack.netlify.app/
 
 If you're looking for a clean and efficient starting point for your next project, BlitzStack gives you everything you need to get moving right away.
+
+<br clear="both">
+
+## 🌟 Top 5 Projects
+
+### 1. **Daniel Several – Portfolio Website**  
+https://danielseveral-react-frontend.netlify.app/  
+Built a fast and responsive portfolio using React, Tailwind CSS, and Framer Motion. Improved performance with optimized assets and reusable components.
+
+### 2. **Flatout MFG – Automotive E-commerce Platform**  
+https://flatoutmfg.com/  
+Contributed to UI development, product pages, and responsive layouts using React and Tailwind. Integrated API data and enhanced overall user flow.
+
+### 3. **eLesson Academy – Online Learning Platform**  
+https://elesson.academy/  
+Developed key frontend features with React and Next.js. Implemented reusable components and smooth animations for a better learning experience.
+
+### 4. **Nexal Media – Agency Landing Website**  
+https://nexalmedia.com/  
+Built modern UI sections with React and GSAP animations. Improved performance and accessibility.
+
+### 5. **Jardiloc – Company Service Website**  
+https://jardiloc.com/  
+Created responsive layouts and custom components using Next.js and Tailwind CSS. Enhanced loading speed and user experience.
+
 
 <br clear="both">
 
