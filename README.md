@@ -71,7 +71,7 @@ If you're looking for a clean and efficient starting point for your next project
 
 ## 🌟 Top 5 Projects
 
-### 1. **Daniel Several – Portfolio Website**  
+### 1. **The Hike Station – Journey Planner**  
 https://danielseveral-react-frontend.netlify.app/  
 Built a fast and responsive portfolio using React, Tailwind CSS, and Framer Motion. Improved performance with optimized assets and reusable components.
 
